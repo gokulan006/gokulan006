@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning AI automations 
+I'm an engineering student and aspiring AI engineer passionate about building intelligent systems that solve real-world problems. Currently, I'm focused on learning AI automation, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and modern AI development tools. I enjoy working on machine learning, computer vision, NLP, and full-stack AI applications. My goal is to become a full-stack AI builder and contribute to impactful open-source projects.
 
 
 ## 🌐 Socials:
